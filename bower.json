@@ -1,0 +1,23 @@
+{
+  "name": "Simple Line Icons Webfont",
+  "version": "1.0.0",
+  "homepage": "http://graphicburger.com/simple-line-icons-webfont/",
+  "authors": [
+    "Jamal Jama"
+  ],
+  "description": "All 160 simple line icons are now embedded in a webfont for more convenient use on the web or in a native application. Big thanks to Jamal Jama for creating this awesome webfont.",
+  "main": "simple-line-icons.css",
+  "keywords": [
+    "Simple",
+    "Line",
+    "Icons"
+  ],
+  "license": "GraphicBurger License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
