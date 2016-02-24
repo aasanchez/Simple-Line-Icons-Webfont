@@ -1,0 +1,19 @@
+{
+  "name": "simple-line-icons-webfont",
+  "version": "4.0.0",
+  "description": "SIMPLE LINE ICONS ======================================================================================",
+  "main": "icons-lte-ie7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasanchez/Simple-Line-Icons-Webfont.git"
+  },
+  "author": "GraphicBurger <gb@example.com> (http://graphicburger.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aasanchez/Simple-Line-Icons-Webfont/issues"
+  },
+  "homepage": "https://github.com/aasanchez/Simple-Line-Icons-Webfont#readme"
+}
