@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aasanchez/Simple-Line-Icons-Webfont/issues"
   },
-  "homepage": "https://github.com/aasanchez/Simple-Line-Icons-Webfont#readme"
+  "homepage": "https://github.com/aasanchez/Simple-Line-Icons-Webfont#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
 }
